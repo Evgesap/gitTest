@@ -3,12 +3,20 @@ h1 {
 	text-align: center;
 }
 
+h2 {
+	font-size: 20px;
+}
 section {
 	padding: 16px;
 
 }
 
 p {
+	font-size: 18px;
+	color: rgb(150, 147, 127, 145.1);
+}
+
+li {
 	font-size: 18px;
 	color: rgb(150, 147, 127, 145.1);
 }
